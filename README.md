@@ -1,3 +1,3 @@
 # hello-world
 first project
-esploring the git hub
+exploring the git hub
